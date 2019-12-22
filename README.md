@@ -1,6 +1,6 @@
 # DudenApi
 
-Tiny restapi for accessing the data of [duden.de]((https://duden.de). Made with Phoenix.
+Tiny restapi for accessing the data of [duden.de](https://duden.de). Made with Phoenix.
 
 ## Phoenix stuff
 
