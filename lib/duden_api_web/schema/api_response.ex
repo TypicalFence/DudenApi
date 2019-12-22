@@ -43,4 +43,8 @@ defmodule DudenApiWeb.Schema.ApiResponse do
   def not_found() do
     %__MODULE__{status: 404, msg: "not found"}
   end
+
+  def not_found(msg) do
+    %__MODULE__{status: 404, msg: msg}
+  end
 end
